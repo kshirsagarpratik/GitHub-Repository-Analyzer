@@ -15,7 +15,7 @@ Python v3.6.5, Understand v9
 
 ### Retrieve GitHub repository into local storage
 
-We achieved this via GitHub’s REST API. We used the `‘requests’` package in Python to deal with HTTP requests. This was very similar to what we did in the *GitLab Jenkins CI/CD* project.
+We achieved this via GitHub’s REST API. We used the `‘requests’` package in Python to deal with HTTP requests. This was very similar to what we did in the ***GitLab Jenkins CI/CD*** project.
 
 ### Obtain all patch files for a repository
 
@@ -46,8 +46,7 @@ Comparing the contents of the source through Understand, we were able to pinpoin
 * The change that it undergoes.
 * Frequency of updates that belong to the same nature.
 
-For our current system, we deal with only one specific Java repository, which can be found at [h​ttps://github.com/structurizr/java](h​ttps://github.com/structurizr/java)
-
+For our current system, we deal with only one specific Java repository, which can be found at [Structurizr](h​ttps://github.com/structurizr/java)
 This is so because we wanted to keep the system simple so as to understand it’s functionality fully and tune it to the task, rather than overcomplicate it without achieving the fundamental objective. We have observed that this particular problem statement involves a lot of resource intensive computations so that using bulk data all at once would definitely have hurt the performance of the system.
 
 ### Limitations
