@@ -46,8 +46,7 @@ Comparing the contents of the source through Understand, we were able to pinpoin
 * The change that it undergoes.
 * Frequency of updates that belong to the same nature.
 
-For our current system, we deal with only one specific Java repository, which can be found at
-[`h​ttps://github.com/structurizr/java`](h​ttps://github.com/structurizr/java)
+For our current system, we deal with only one specific Java repository, which can be found at [h​ttps://github.com/structurizr/java](h​ttps://github.com/structurizr/java)
 
 This is so because we wanted to keep the system simple so as to understand it’s functionality fully and tune it to the task, rather than overcomplicate it without achieving the fundamental objective. We have observed that this particular problem statement involves a lot of resource intensive computations so that using bulk data all at once would definitely have hurt the performance of the system.
 
@@ -62,12 +61,12 @@ We would like to implement **Machine Learning** :smiling_imp: :smiling_imp: :smi
 ---
 
 ### IMPORTANT NOTES REGARDING IMPLEMENTATION
-● We use the inbuilt subprocess and os packages from Python to execute command line instructions through python script.
-● We use the requests package to deal with http requests.
-● We have used json and generateJson packages to create json file through python.
-● We are assuming you have Understand already installed and set up
+* We use the inbuilt subprocess and os packages from Python to execute command line instructions through python script.
+* We use the requests package to deal with http requests.
+* We have used json and generateJson packages to create json file through python.
+* We are assuming you have Understand already installed and set up
 for use.
-● Please feel free to read comments in the code to get a better idea of our algorithm.
+* Please feel free to read comments in the code to get a better idea of our algorithm.
 
 ---
 
