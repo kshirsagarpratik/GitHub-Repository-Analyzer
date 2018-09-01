@@ -5,11 +5,11 @@
 Our task was to create a GitHub repository analyzer for Java Projects.
 We had to use the `Understand` tool to analyze specifics of the source code such as *Entities* and *References*.
 
-![System Architecture](img/arch.png)
+![System Architecture](img/arch.PNG)
 
 <h4 align='center'>System Architecture</h4>
 
-![Program Flow](img/flow.png)
+![Program Flow](img/flow.PNG)
 
 <h4 align='center'>Program Flow</h4>
 
