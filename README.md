@@ -46,7 +46,8 @@ Comparing the contents of the source through Understand, we were able to pinpoin
 * The change that it undergoes.
 * Frequency of updates that belong to the same nature.
 
-For our current system, we deal with only one specific Java repository, which can be found at [Structurizr](h​ttps://github.com/structurizr/java)
+For our current system, we deal with only one specific Java repository, which can be found at [Structurizr](https://github.com/structurizr/java)
+
 This is so because we wanted to keep the system simple so as to understand it’s functionality fully and tune it to the task, rather than overcomplicate it without achieving the fundamental objective. We have observed that this particular problem statement involves a lot of resource intensive computations so that using bulk data all at once would definitely have hurt the performance of the system.
 
 ### Limitations
