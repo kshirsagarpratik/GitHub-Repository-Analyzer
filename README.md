@@ -51,7 +51,7 @@ This is so because we wanted to keep the system simple so as to understand it’
 
 ### Limitations
 
-*We are only working around a single Java repository due to performance constraints. Another limitation in that we have to download the data locally in order to perform analysis. Additionally, we couldn’t use Entities and References to their full potential and extract more sophisticated patterns with Understand as the documentation provided by Understand was not so comfortable and hence our experience with it’s Python API was not as rich as we’d liked it to be. The lack of learning resources for Understand available online definitely have affected the complexity and sophistication of our system.
+We are only working around a single Java repository due to performance constraints. Another limitation in that we have to download the data locally in order to perform analysis. Additionally, we couldn’t use Entities and References to their full potential and extract more sophisticated patterns with Understand as the documentation provided by Understand was not so comfortable and hence our experience with it’s Python API was not as rich as we’d liked it to be. The lack of learning resources for Understand available online definitely have affected the complexity and sophistication of our system.
 
 ### Future Scope
 
